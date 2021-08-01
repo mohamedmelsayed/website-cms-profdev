@@ -65,6 +65,29 @@ $("#videos").click(function(){
         }
     });
 });
+
+$("#send").click(function(){
+    // alert($('#email2').val());
+    let url='http://www.prof-dev.com/mail.php?title='+$('#name2').val()+'&email='+$('#email2').val()+'&text='+$('#message2').val();
+    // alert(url);
+    $.ajax({
+        type: 'GET',
+        url: 'http://www.prof-dev.com/mail.php?title='+$('#name2').val()+'&email='+$('#email2').val()+'&text='+$('#message2').val(),
+        success: function(data) {
+            if(data=="true"){
+                alert("Your email is received");
+
+            }
+            else{
+                alert("error happend");
+
+            }
+            // $("#content").html(data);
+
+        }
+    });
+});
+
 });
 
 
