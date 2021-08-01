@@ -1,0 +1,13 @@
+.aboutus-section img{
+    border-radius: 20%;
+}
+
+.aboutus-section p{
+    font-size: 19px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #1d1c1b;
+    background-color: white;
+}
+.aboutus-section h2,h4{
+    font-style: italic;
+}

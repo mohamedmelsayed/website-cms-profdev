@@ -1,0 +1,49 @@
+[
+    {
+        "groupname":"Salesdove",
+        "tags":"salesdove,sales, warehouse,web , application",
+        "description":"Salesdove is a warehouse and sales managment web application,it maintains purchases, sales, stock exchange , payments, cashflow, and production managment",
+        "videos":[
+            {
+                "link":"https://www.youtube.com/embed/6Gdz-2jYTdw",
+                "text":""
+            },
+            {
+                "link":"https://www.youtube.com/embed/4B5xb2m08hw",
+                "text":""
+            },
+            {
+                "link":"https://www.youtube.com/embed/OfrqPVkMcOc",
+                "text":""
+            }
+            ,{
+                "link":"https://www.youtube.com/embed/10LmUe_a4yY",
+                "text":""
+            },
+            {
+                "link":"https://www.youtube.com/embed/_yPGGPtpddY",
+                "text":""
+            }
+            ,{
+                "link":"https://www.youtube.com/embed/V3vE6qiGz8Y",
+                "text":""
+            }
+        ]
+    },
+    {
+        "groupname":"Programming in Java",
+        "tags":"java,programming",
+        "description":"Some of this videos from the founder's youtube channel",
+        "videos":[
+            {
+                "link":"https://www.youtube.com/embed/D5oQaWE1SZ4",
+                "text":""
+            },
+            {
+                "link":"https://www.youtube.com/embed/RMPHLInmyN4",
+                "text":""
+            }
+        ]
+    }
+  
+]
